@@ -7,8 +7,7 @@ __pycache__/
 *.sqlite3
 *.csv
 *.parquet
-venv/
-env/
+.venv/
 .idea/
 .vscode/
 .DS_Store
