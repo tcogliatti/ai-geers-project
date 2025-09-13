@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.csv
+*.parquet
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+.ipynb_checkpoints/
